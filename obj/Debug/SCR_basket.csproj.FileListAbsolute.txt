@@ -1,0 +1,12 @@
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\bin\Debug\SCR_basket.exe.config
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\bin\Debug\SCR_basket.exe
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\bin\Debug\SCR_basket.pdb
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\obj\Debug\SCR_basket.csprojResolveAssemblyReference.cache
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\obj\Debug\SCR_basket.exe
+c:\users\kamil\documents\visual studio 2015\Projects\SCR_basket\SCR_basket\obj\Debug\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Debug\SCR_basket.exe.config
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Debug\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Debug\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Debug\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Debug\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Debug\SCR_basket.csprojResolveAssemblyReference.cache

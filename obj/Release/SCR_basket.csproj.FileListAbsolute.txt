@@ -1,0 +1,42 @@
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\SCR_basket\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil — kopia\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil v1.1\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\Desktop\Kamil v1.2\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\bin\Release\SCR_basket.exe.config
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\obj\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\obj\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\bin\Release\SCR_basket.exe
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\bin\Release\SCR_basket.pdb
+C:\Users\Kamil\OneDrive\SEMESTR VI\SCR - LAB\Projekt\Kamil v2.0 final\SCR_basket\obj\Release\SCR_basket.csprojResolveAssemblyReference.cache
